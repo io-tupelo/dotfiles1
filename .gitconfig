@@ -24,6 +24,8 @@
 
 [push]
 	default = tracking
+[pull]
+	rebase = false  # merge (the default strategy)
 [color]
 	ui = true
 [fetch]
